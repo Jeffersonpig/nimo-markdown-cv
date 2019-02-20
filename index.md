@@ -103,6 +103,13 @@ Supported arguments:
 - 研究金融信息交换协议(FIX)，实现与港交所的FIX协议申报对接，开发测试工具
 - 现场支持系统的UAT测试、MR测试
 
+
+## 开发技能
+
+ - **C++**：7年使用经验，同时熟悉Qt,Boost等库的使用
+ - **Python**: 三年使用经验
+ - **SQL**：基本的使用
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
