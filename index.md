@@ -1,12 +1,10 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
-email: woden@cs.cmu.edu
-homepage:
-    url: http://cs.cmu.edu/~woden
-    text: cs.cmu.edu/~woden
+title: 朱越锋简历
+email: zhuyf10528@hundsun.com
+phone: 18814842354
 ---
-# Wode __Ni__
+# 朱越锋
 
 <!--
 include contact information from the front matter
@@ -17,41 +15,64 @@ Supported arguments:
 -->
 {% include cv-contact.html %}
 
-## Education
+## 工作经历
 
-### __Carnegie Mellon University__ `2018.9 -`
-```
-Pittsburgh, PA
-```
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+### **恒生电子** `2014-02 至今`
 
-### __Columbia University__ `2016.9 - 2018.5`
-```
-New York, NY
-```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+**海外发展部 高级软件工程师 E3** 
 
-### __Dickinson College__ `2013.9 - 2016.5`
+- 港股柜台交易系统委托单申报回报功能的方案设计、开发 
+- 港交所`OCG`、`CCOG`、`CCCG`等交易网关的对接报盘设计开发 
+- 金融信息交换协议(FIX)引擎与模拟测试程序的设计开发 
+- 短信、Email信息推送功能的设计、开发
+- 与第三方短信服务的http、SOAP、SMPP等接口的对接功能开发、测试
+- 港股行情服务的维护优化
+
+
+### **信雅达科技** `2011-07 ～ 2013-12`
+
+**智能终端部 C++软件开发工程师**
+
+- pos设备应用程序开发 
+- pos设备与银行服务器间8583报文协议通讯功能开发 
+- IC卡`PBOC`、`EMV`协议研究，相应pos设备功能设计与实现
+
+## 教育背景
+
+### **西北工业大学 - 本科** `2007-09 ～ 2011-06`
+
+- **电子信息学院 探测制导与控制技术**
+
+## 项目经验
+
+### 新版港股证券交易结算系统
 ```
-Carlisle, PA
+2018-12 ~ 至今
 ```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+基于恒生`JRES3.0`的JAVA开发框架重新设计、开发的港股证券交易管理系统
 
-## Publications
+- 负责交易报盘、行情服务、策略委托、客户消息推送服务等模块的需求分析、设计
+- 学习Java语言、Spring框架的使用
 
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
+### 06版港股证券交易结算系统
+```
+2017-01 ~ 2018-12
+```
+基于恒生`Fbase`中间件和`CRES C++`框架开发的港股证券交易结算系统
 
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
+- 在**CRES**框架的基础上开发中间件插件，实现业务消息的模板处理、优先级和渠道分流，并通过http、soap、smpp等协议对接外部供应商的服务，实现业务通知短信、邮件的发送与管理
+- 在**CRES**框架的基础上开发中间件插件，实现机构交易指令在不同处理阶段的数据同步、状态更新；
+- 基于boost库开发适用于`CRES`框架日志服务插件，扩展`CRES`框架的功能
+- 系统docker容器化方案设计
+
+### 工银亚洲港股柜台交易系统开发
+```
+2014-02 ~ 2015-07
+```
+基于恒生`JRES3.0`的JAVA开发框架重新设计、开发的港股证券交易管理系统
+
+- 负责交易报盘、行情服务、策略委托、客户消息推送服务等模块的需求分析、设计
+- 学习Java语言、Spring框架的使用
 
 ## Experience
 
