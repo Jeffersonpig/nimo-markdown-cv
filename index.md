@@ -3,10 +3,9 @@ layout: cv
 title: 朱越锋简历
 phone: 18814842354
 email: zhuyf10528@hundsun.com
-
 ---
 
-## 朱越锋
+# 朱越锋
 
 <!--
 include contact information from the front matter
