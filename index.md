@@ -127,7 +127,7 @@ Supported arguments:
 
 ## 开发技能
 
- - **C++**：7年使用经验，同时熟悉Qt,Boost等库的使用，能够使用gdb、valgrind等开发调试工具
+ - **C++**：8年使用经验，同时熟悉Qt,Boost等库的使用，能够使用gdb、valgrind等开发调试工具
  - **Python**: 4年使用经验，用于编写测试脚本及日常实用工具，了解Flask框架的使用
  - **SQL**：基本的Oracle,MySQL数据库操作
  - **Java**：半年项目开发使用经验
