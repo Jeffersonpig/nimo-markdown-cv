@@ -34,7 +34,7 @@ Supported arguments:
 港股柜台交易清算系统的后台研发：
 - 港股柜台交易系统委托单申报回报功能的方案设计、开发 
 - 港交所OCG、CCOG、CCCG等交易网关的对接报盘设计开发 
-- 金融信息交换协议(FIX)引擎与模拟测试程序的设计开发 
+- 模拟交易测试工具的设计开发 
 - 短信、Email信息推送功能的设计、开发
 - 与第三方短信服务的http、SOAP、SMPP等接口的对接功能开发、测试
 - 港股行情服务的维护优化
@@ -44,7 +44,7 @@ Supported arguments:
 
 **智能终端部 C++软件开发工程师**
 
-- pos设备应用程序开发 
+- pos设备界面应用程序开发 
 - pos设备与银行服务器间8583报文协议通讯功能开发 
 - IC卡PBOC、EMV协议研究，相应pos设备功能设计与实现
 
@@ -128,13 +128,12 @@ Supported arguments:
 
 ## 能力概要
 
- - **C++**：8年使用经验，同时熟悉Qt,Boost等库的使用，能够使用gdb、valgrind等开发调试工具
+ - **C++**：8年使用经验，能够使用gdb、valgrind等开发调试工具
  - **Python**: 4年使用经验，用于编写测试脚本及实用效率工具
- - **SQL**：基本的Oracle,MySQL数据库操作
+ - **数据库**：基本的Oracle,MySQL数据库操作
  - **Java**：半年项目开发使用经验
- - 其它：基本的bash脚本编写，基本的rabbitMQ使用
  - PMP项目管理证书
 
 <!-- ### Footer
 
-Last updated: JUNE 2019 -->
+Last updated: AUG 2020 -->
